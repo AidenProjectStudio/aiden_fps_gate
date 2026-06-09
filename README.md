@@ -6,7 +6,7 @@ Le but est de forcer les joueurs a limiter leurs FPS pour eviter les avantages l
 
 ## Apercu
 
-
+<img width="2031" height="614" alt="image" src="https://github.com/user-attachments/assets/51e0f41b-42ee-46f5-8cb9-cb295110b541" />
 
 ## Fonctionnalites
 
